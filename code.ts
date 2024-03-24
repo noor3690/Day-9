@@ -33,4 +33,4 @@ else if(alien_colour == "Red"){
 }
 else{
     console.log("You earned 15 points");
-}
+};

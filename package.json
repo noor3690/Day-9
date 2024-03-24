@@ -1,6 +1,6 @@
 {
   "name": "day-9",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "100 days of coding challenge",
   "main": "index.js",
   "scripts": {
